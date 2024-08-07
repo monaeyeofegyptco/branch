@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="115" height="36" viewBox="0 0 115 36">
+  <defs>
+    <filter id="Rectangle_13" x="0" y="0" width="115" height="36" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Book_Now_Button" data-name="Book Now Button" transform="translate(3 1)">
+    <g transform="matrix(1, 0, 0, 1, -3, -1)" filter="url(#Rectangle_13)">
+      <g id="Rectangle_13-2" data-name="Rectangle 13" transform="translate(3 1)" fill="#fff" stroke="#e6e6e6" stroke-width="0.4">
+        <rect width="109" height="30" rx="3" stroke="none"/>
+        <rect x="0.2" y="0.2" width="108.6" height="29.6" rx="2.8" fill="none"/>
+      </g>
+    </g>
+    <text id="Book_Now" data-name="Book Now" transform="translate(68 20)" fill="#575757" font-size="12" font-family="Montserrat" font-weight="500"><tspan x="-31.458" y="0">Book Now</tspan></text>
+    <path id="Rectangle_35" data-name="Rectangle 35" d="M3,0H29a0,0,0,0,1,0,0V30a0,0,0,0,1,0,0H3a3,3,0,0,1-3-3V3A3,3,0,0,1,3,0Z" fill="#ffc400"/>
+    <path id="book-now-icon" d="M431.229,67.858a.7.7,0,0,1-.855-.349l-1.1-2.342L427.96,66.4a2.04,2.04,0,0,1-.335.261c-.727.45-1.465.16-1.451-.785l.264-9.257a.508.508,0,0,1,.8-.422c2.054,1.309,5.273,4.072,7.327,5.753.986.812.16,1.6-.74,1.706-.551.1-1.225.146-1.793.214l1.094,2.355a.7.7,0,0,1-.317.9C432.353,67.332,431.673,67.717,431.229,67.858Zm1.9-10.562a.754.754,0,0,1-1.012-.95l0-.009a.752.752,0,0,1,.38-.411l1.031-.512a.753.753,0,0,1,.64,1.365Zm-2.785-3.4-.006.019a.757.757,0,0,1-.944.447l-.034-.012a.754.754,0,0,1-.444-.942c.154-.459.318-.994.5-1.436a.754.754,0,0,1,1.416.52Zm-4-.579a.753.753,0,0,1,.023.568.763.763,0,0,1-.39.428l-.011,0a.753.753,0,0,1-.992-.368c-.219-.466-.463-.93-.674-1.4a.754.754,0,0,1,.368-.992.751.751,0,0,1,1,.363Zm-2.957,2.853a.757.757,0,0,1,.413.385.747.747,0,0,1,.026.576l0,0a.757.757,0,0,1-.388.424l-.016.006a.75.75,0,0,1-.56.019l-1.515-.536a.755.755,0,0,1-.051-1.389.753.753,0,0,1,.576-.026Zm-.18,4.089a.752.752,0,0,1,1,.363.753.753,0,0,1-.363,1l-1.478.709a.754.754,0,0,1-1.029-.942l.006-.016a.757.757,0,0,1,.382-.407Z" transform="translate(-414.438 -44.477)"/>
+  </g>
+</svg>
